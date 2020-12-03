@@ -1,0 +1,15 @@
+.order-form {
+  max-width: 55%;
+}
+
+.order-form h3 {
+  margin-bottom: 10px;
+}
+
+.order-bottom {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}

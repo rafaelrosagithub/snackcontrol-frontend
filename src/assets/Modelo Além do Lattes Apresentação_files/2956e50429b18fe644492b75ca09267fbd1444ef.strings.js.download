@@ -1,0 +1,4 @@
+window["cmsg"] = window["cmsg"] || {};
+window["cmsg"]["strings"] = window["cmsg"]["strings"] || {};
+window["cmsg"]["strings"]["pt-BR"] = window["cmsg"]["strings"]["pt-BR"] || [];
+window["cmsg"]["strings"]["pt-BR"].push({"/lE2mQ":"Visualização em grade","h5S1zw":"Usar template","R6iRpg":"Editar","RHKCfg":"Editar ou usar template","9jHqsQ":"Design sem nome","rnsyAg":"Visualização padrão","Sf4/yg":"Visualização em grade","btMc3Q":"Ativar mudo","JbRXMg":"Desativar mudo","Sn4nMA":"Fechar a visualização em grade","QJYZQw":"Copiar","ZMvuWg":"Copiado!","6ikrhA":"Copiar um link para este design","D88teg":"Copiar um link para esta apresentação","LYInOg":"Compartilhar","KtqMng":"Copiar link para visualização","5MgONw":"Ir para a página {0}","hrWYVQ":"Clique para reproduzir o áudio","9Xt6Qw":"Toque para reproduzir o áudio"});

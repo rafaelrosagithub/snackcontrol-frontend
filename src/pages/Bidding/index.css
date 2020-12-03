@@ -1,0 +1,16 @@
+.order-header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.button-bidding {
+    margin-left: 7px;
+}
+
+.button-table {
+    width: 80px;
+    padding: 4px 2px 4px 2px;
+}
